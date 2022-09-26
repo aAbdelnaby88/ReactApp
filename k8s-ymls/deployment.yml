@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: aabdelnabi88/my-react-app:v1.1
+        image: aabdelnabi88/my-react-app:v1.2
         resources:
           limits:
             memory: "128Mi"
